@@ -148,10 +148,6 @@ ul li a{
     box-sizing: content-box;
 }
 
-.course-info{
-        padding: 5px;
-}
-
 .course-details{
     display: flex;
     justify-content: space-between;
@@ -162,7 +158,6 @@ ul li a{
     width: 224px;
     padding: 12px;
 }
-padding: 5px;
 
 .course-title{
     font-size: 20.0336px;
