@@ -118,6 +118,7 @@ ul li a{
 
 .blog{
     display: flex;
+    align-items: center
 }
 
 .blog img{
@@ -147,14 +148,21 @@ ul li a{
     box-sizing: content-box;
 }
 
+.course-info{
+        padding: 5px;
+}
+
 .course-details{
     display: flex;
     justify-content: space-between;
+    align-items: flex-end;
 }
 
 .course img {
     width: 224px;
+    padding: 12px;
 }
+padding: 5px;
 
 .course-title{
     font-size: 20.0336px;
